@@ -7,4 +7,4 @@ This is Numen Cyber's Audit Report
 - FOMOCUP-Smart-Contract-Audit-Report
 - GOYA-Smart-Contract-Audit-Report 
 - IOTABEE-Smart-Contract-Audit-Report
-
+- Cobo Safe-Smart-Contract-Audit-Report
