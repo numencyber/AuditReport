@@ -9,3 +9,4 @@ This is Numen Cyber's Audit Report
 - IOTABEE-Smart-Contract-Audit-Report
 - Cobo Safe-Smart-Contract-Audit-Report
 - Knoknok-Smart-Contract-Audit-Report
+- Luckynft-Smart-Contract-Audit-Report
