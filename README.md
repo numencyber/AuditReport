@@ -1,5 +1,5 @@
 # AuditReport
-This is Numen Cyber's Audit Report
+This is Numen Cyber's Public Audit Report
 
 - NFTSTAR-Smart-Contract-Audit-Report 
 
