@@ -30,3 +30,9 @@ This is Numen Cyber's Public Audit Report
 - Althena-Smart-Contract-Audit-Report 
 
 - TrustBitFinance-Smart-Contract-Audit-Report 
+
+- MeteornRun-Smart-Contract-Audit-Report
+
+- Armonia-Public-Blockchain-Secure-Audit-Report
+
+  
